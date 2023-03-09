@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "python_project_temp"
-vertion = "0.0.1"
+version = "0.0.1"
 authors = [
     {name = "Gao Feng", email = "gf0517@gmail.com"},
 ]
@@ -14,8 +14,10 @@ requires-python = ">=3.7"
 keywords = ["template"]
 license = {text = "MIT"}
 classifiers = [
-    "Framework :: Django",
     "Programming Language :: Python :: 3",
 ]
 dependencies = [
 ]
+
+[project.urls]
+"Homepage" = "https://github.com/gaofengg/python_project_temp"
