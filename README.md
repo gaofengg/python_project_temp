@@ -1,0 +1,1 @@
+# This is a file structure template for a empty python project.
